@@ -187,7 +187,7 @@
   <main>
     <div class="products" role="list">
       <article class="product-card" role="listitem">
-        <img src="https://sdmntprwestus.oaiusercontentr.com/files/00000000-c50c-6230-8df7 -deaac713e84b/raw?se=2025-05-30T04 %3A24%3AO5Z&sp=r&sv=2024-08-04 &sr=b&scid=e4675e50-1d2f-516c-9792 -98f2b03d934d&skoid=b64a43d9-3512 -45c2-98b4-dea55d094240&sktid= a48cca56-e6da-484e-a814-9c849652bcb3 &skt-2025-05-30T01%3A05%3A35Z&ske= 2025-05-31T01%3A05%3A35Z&sks=b&skv= 2024-08-04&sig=RB2gIYOBwomr41cyJgXWj %2BpfvCMu9LWx9l4zZ8Q%2Bvns%3D/300x200.png?text=Bakso+Keju" alt="Bakso Keju" class="product-image">
+        <img src="https://via.placeholder.com/300x200.png?text=Bakso+Keju" alt="Bakso Keju" class="product-image">
         <h2 class="product-title">Bakso Keju</h2>
         <p class="product-desc">Lezatnya bakso dengan kejunya yang meleleh di mulut. Cocok untuk pecinta rasa gurih dan creamy.</p>
         <p class="note-cheese">*Catatan: Keju yang digunakan adalah keju cheddar, bukan mozzarella.</p>
