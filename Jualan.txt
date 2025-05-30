@@ -149,12 +149,6 @@
       margin-top: auto;
       box-shadow: 0 -4px 8px rgba(214, 44, 45, 0.6);
     }
-    .product-image {
-      width: 100%;
-      height: auto;
-      border-radius: 10px;
-      margin-bottom: 1rem;
-    }
     @media (max-width: 480px) {
       header h1 {
         font-size: 2.2rem;
@@ -187,7 +181,6 @@
   <main>
     <div class="products" role="list">
       <article class="product-card" role="listitem">
-        <img src="https://via.placeholder.com/300x200.png?text=Bakso+Keju" alt="Bakso Keju" class="product-image">
         <h2 class="product-title">Bakso Keju</h2>
         <p class="product-desc">Lezatnya bakso dengan kejunya yang meleleh di mulut. Cocok untuk pecinta rasa gurih dan creamy.</p>
         <p class="note-cheese">*Catatan: Keju yang digunakan adalah keju cheddar, bukan mozzarella.</p>
@@ -195,14 +188,12 @@
         <a href="https://wa.me/628871850109?text=Saya%20mau%20pesan%20Bakso%20Keju" class="btn-order" target="_blank" rel="noopener">Pesan via WhatsApp</a>
       </article>
       <article class="product-card" role="listitem">
-        <img src="https://via.placeholder.com/300x200.png?text=Bakso+Urat+Pedas" alt="Bakso Urat Pedas" class="product-image">
         <h2 class="product-title">Bakso Urat Pedas</h2>
         <p class="product-desc">Bakso urat dengan bumbu pedas menggigit, membuat sensasi makan jadi makin mantap dan nagih.</p>
         <p class="product-price">Harga: 5.000 IDR</p>
         <a href="https://wa.me/628871850109?text=Saya%20mau%20pesan%20Bakso%20Urat%20Pedas" class="btn-order" target="_blank" rel="noopener">Pesan via WhatsApp</a>
       </article>
       <article class="product-card" role="listitem">
-        <img src="https://via.placeholder.com/300x200.png?text=Paket+Bakso+Pangsit" alt="Paket Bakso Pangsit" class="product-image">
         <h2 class="product-title">Paket Bakso Pangsit</h2>
         <p class="product-desc">Paket komplit nikmat, berisi bakso dan pangsit yang siap memanjakan lidah kamu dalam satu genggaman.</p>
         <p class="product-price">Harga: 15.000 IDR</p>
@@ -215,3 +206,4 @@
   </footer>
 </body>
 </html>
+
